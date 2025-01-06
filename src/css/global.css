@@ -9,8 +9,8 @@
 }
 
 .container .ilustracao {
-  width: 235px;
-  height: 180px;
+  width: 280px;
+  height: 200px;
 }
 
 .container .ilustracao-comprida{
@@ -19,12 +19,13 @@
 }
 
 .container .linha {
+  display: block;
   color: #777777;
   padding: 15px;
 }
 
 .container .item {
-  font-size: 15px;
+  font-size: 19px;
   font-weight: 600;
   padding: 8px;
 }
@@ -33,7 +34,7 @@
   border: 2px solid black;
   border-radius: 10px;
   padding: 10px;
-  font-size: 15px;
+  font-size: 17px;
   margin: 10px;
 }
 

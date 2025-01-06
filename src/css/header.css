@@ -1,0 +1,193 @@
+.header .corpo-cabecalho {
+    background-color: #DEC2BA;
+    max-width: 100%;
+    min-height: 80%;
+}
+
+.header .cabecalho .logo {
+    width: 145px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: palegoldenrod;
+    max-width: 100%;
+    min-height: 130px;
+}
+
+.header nav ul {
+    display: flex;
+}
+
+.header nav li a {
+    color: black;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 50px 50px;
+    display: flex;
+}
+
+main .section{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    padding: 20px;
+}
+
+section {
+    padding: 10px;
+}
+
+@media(max-width: 1280px) {
+    .header .corpo-cabecalho {
+        background-color: #DEC2BA;
+        max-width: 100%;
+        min-height: 80%;
+    }
+    
+    .header .cabecalho .logo {
+        width: 105px;
+    }
+    
+    .header {
+        display: flex;
+        justify-content: center;
+        background-color: palegoldenrod;
+        max-width: 80%;
+        min-height: 100px;
+    }
+    
+    .header nav ul {
+        display: flex;
+    }
+    
+    .header nav li a {
+        color: black;
+        font-size: 1rem;
+        font-weight: 500;
+        padding: 25px 25px;
+        display: flex;
+    }
+    
+    main .section{
+        display: flex;
+        margin: 10px;
+        justify-content: center;
+        padding: 15px;
+    }
+    
+    section {
+        padding: 10px;
+    }
+}
+
+
+@media(max-width: 835px) {
+    .header .corpo-cabecalho {
+        background-color: #DEC2BA;
+        max-width: 80%;
+        min-height: 60%;
+    }
+    
+    .header .cabecalho .logo {
+        width: 105px;
+    }
+    
+    .header {
+        display: flex;
+        justify-content: center;
+        background-color: palegoldenrod;
+        max-width: 80%;
+        min-height: 80px;
+    }
+    
+    .header nav ul {
+        display: flex;
+    }
+    
+    .header nav li a {
+        color: black;
+        font-size: 1rem;
+        font-weight: 500;
+        padding: 25px 25px;
+        display: flex;
+    }
+    
+    main .section{
+        display: flex;
+        margin: 10px;
+        justify-content: center;
+        padding: 15px;
+    }
+    
+    section {
+        padding: 10px;
+    }
+}
+
+
+@media(max-width: 425px) {
+    .header .corpo-cabecalho {
+        background-color: #DEC2BA;
+        max-width: 60%;
+        min-height: 60%;
+    }
+    
+    .header .cabecalho .logo {
+        width: 80px;
+    }
+    
+    .header {
+        display: flex;
+        justify-content: center;
+        background-color: palegoldenrod;
+        max-width: 80%;
+        min-height: 80px;
+    }
+    
+    .header nav ul {
+        display: flex;
+    }
+    
+    .header nav li a {
+        color: black;
+        font-size: 1rem;
+        font-weight: 500;
+        padding: 8px 8px;
+        display: flex;
+    }
+}
+
+
+@media(max-width: 320px) {
+    .header .corpo-cabecalho {
+        background-color: #DEC2BA;
+        max-width: 35%;
+        min-height: 30%;
+    }
+    
+    .header .cabecalho .logo {
+        width: 50px;
+    }
+    
+    .header {
+        display: flex;
+        justify-content: center;
+        background-color: palegoldenrod;
+        max-width: 75%;
+        min-height: 70px;
+    }
+    
+    .header nav ul {
+        display: flex;
+    }
+    
+    .header nav li a {
+        color: black;
+        font-size: 1rem;
+        font-weight: 500;
+        padding: 5px 5px;
+        display: flex;
+    }
+}

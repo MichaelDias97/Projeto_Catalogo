@@ -4,7 +4,7 @@
     min-height: 80%;
 }
 
-.header .cabecalho .logo {
+.header .logo {
     width: 145px;
 }
 
@@ -46,7 +46,7 @@ section {
         min-height: 80%;
     }
     
-    .header .cabecalho .logo {
+    .header .logo {
         width: 105px;
     }
     
@@ -60,6 +60,7 @@ section {
     
     .header nav ul {
         display: flex;
+        padding: 25px;
     }
     
     .header nav li a {
@@ -90,7 +91,7 @@ section {
         min-height: 60%;
     }
     
-    .header .cabecalho .logo {
+    .header .logo {
         width: 105px;
     }
     
@@ -134,7 +135,7 @@ section {
         min-height: 60%;
     }
     
-    .header .cabecalho .logo {
+    .header .logo {
         width: 80px;
     }
     
@@ -148,6 +149,7 @@ section {
     
     .header nav ul {
         display: flex;
+        padding: 25px;
     }
     
     .header nav li a {
@@ -167,7 +169,7 @@ section {
         min-height: 30%;
     }
     
-    .header .cabecalho .logo {
+    .header .logo {
         width: 50px;
     }
     
@@ -181,6 +183,7 @@ section {
     
     .header nav ul {
         display: flex;
+        padding: 25px;
     }
     
     .header nav li a {

@@ -42,13 +42,13 @@ section {
 
 @media(max-width: 1280px) {
     .header .corpo-cabecalho {
-        background-color: #DEC2BA;
         max-width: 100%;
         min-height: 80%;
     }
     
     .header .logo {
         width: 105px;
+        margin-top: 7px;
     }
     
     .header {
@@ -87,13 +87,13 @@ section {
 
 @media(max-width: 835px) {
     .header .corpo-cabecalho {
-        background-color: #DEC2BA;
         max-width: 80%;
         min-height: 60%;
     }
     
     .header .logo {
         width: 105px;
+        margin-top: 7px;
     }
     
     .header {
@@ -131,13 +131,13 @@ section {
 
 @media(max-width: 425px) {
     .header .corpo-cabecalho {
-        background-color: #DEC2BA;
         max-width: 60%;
         min-height: 60%;
     }
     
     .header .logo {
         width: 80px;
+        margin-top: 7px;
     }
     
     .header {
@@ -165,13 +165,13 @@ section {
 
 @media(max-width: 320px) {
     .header .corpo-cabecalho {
-        background-color: #DEC2BA;
         max-width: 35%;
         min-height: 30%;
     }
     
     .header .logo {
         width: 50px;
+        margin-top: 7px;
     }
     
     .header {

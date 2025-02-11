@@ -76,6 +76,11 @@
   color: green;
 }
 
+.container .quantidade{
+  margin-top: 10px;
+  font-size: 14px;
+}
+
 .container .botao-pedido{
   display: block;
   margin: 0 auto;
@@ -156,7 +161,6 @@
     font-size: 13px;
     background-color: red;
     color: white;
-    
   }
   
   .container .juros{
@@ -168,6 +172,11 @@
     margin-top: 7px;
     font-size: 13px;
     color: green;
+  }
+
+  .container .quantidade{
+    margin-top: 7px;
+    font-size: 13px;
   }
   
   .container .botao-pedido{
@@ -250,7 +259,6 @@
     font-size: 8px;
     background-color: red;
     color: white;
-    
   }
   
   .container .juros{
@@ -262,6 +270,11 @@
     margin-top: 3px;
     font-size: 9px;
     color: green;
+  }
+
+  .container .quantidade{
+    margin-top: 3px;
+    font-size: 9px;
   }
   
   .container .botao-pedido{
@@ -345,7 +358,6 @@
     font-size: 8px;
     background-color: red;
     color: white;
-    
   }
   
   .container .juros{
@@ -359,6 +371,11 @@
     color: green;
   }
   
+  .container .quantidade{
+    margin-top: 3px;
+    font-size: 8px;
+  }
+
   .container .botao-pedido{
     display: block;
     margin: 0 auto;
@@ -440,7 +457,6 @@
     font-size: 8px;
     background-color: red;
     color: white;
-    
   }
   
   .container .juros{
@@ -452,6 +468,11 @@
     margin-top: 3px;
     font-size: 7px;
     color: green;
+  }
+
+  .container .quantidade{
+    margin-top: 3px;
+    font-size: 7px;
   }
   
   .container .botao-pedido{
